@@ -14,6 +14,6 @@ public class main {
         System.out.println("Suma: " + suma);
         System.out.println("Resta: " + resta);
         System.out.println("Multiplicacion: " + multiplicacion);
-        System.out.println("Division: " + division);
+        System.out.println("Division " + division);
     }
 }
