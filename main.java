@@ -17,3 +17,20 @@ public class main {
         System.out.println("Division " + division);
     }
 }
+
+class Calculadora {
+    public int sumar(int a, int b) {
+        return a + b;
+    }
+
+    public int restar(int a, int b) {
+        return a - b;
+    }
+
+    public int multiplicar(int a, int b) {
+        return a * b;
+    }
+
+    public float dividir(int a, int b) {
+        return (float) a / b;
+    }
