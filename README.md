@@ -1,4 +1,3 @@
-# Calculadora<div align="center">
   <img height="150" src="https://booksandbooksdigital.com.co/ovas_unad/OVA-071/dist/assets/images/slide10_1.gif"  />
 </div>
 
